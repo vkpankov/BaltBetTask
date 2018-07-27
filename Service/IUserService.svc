@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="BaltBetService.UserService" CodeBehind="IUserService.svc.cs" %>

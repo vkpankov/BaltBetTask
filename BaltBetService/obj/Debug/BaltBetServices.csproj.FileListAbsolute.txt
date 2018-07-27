@@ -13,3 +13,18 @@ C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetServi
 C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetService\obj\Debug\BaltBetServices.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetService\obj\Debug\BaltBetServices.dll
 C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetService\obj\Debug\BaltBetServices.pdb
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\BaltBetServices.dll.config
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\BaltBetServices.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\BaltBetServices.pdb
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\SharedLibrary.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\SharedLibrary.pdb
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\SharedLibrary.dll.config
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\obj\Debug\BaltBetServices.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\obj\Debug\BaltBetServices.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\BaltBetService\obj\Debug\BaltBetServices.pdb

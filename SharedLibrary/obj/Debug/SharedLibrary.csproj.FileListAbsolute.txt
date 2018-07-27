@@ -11,3 +11,17 @@ C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\SharedLibrar
 C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\SharedLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\SharedLibrary\obj\Debug\SharedLibrary.dll
 C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\SharedLibrary.dll.config
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Admin\Documents\GitHub\BaltBetTask\SharedLibrary\obj\Debug\SharedLibrary.pdb
