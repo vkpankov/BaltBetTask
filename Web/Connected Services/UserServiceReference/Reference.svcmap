@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="473d3685-2412-436e-ac33-2e1098a4f137" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49227/IUserService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IUserService.xsd" MetadataType="Schema" ID="ab9e494b-1365-450d-a843-ddb29d36daed" SourceId="1" SourceUrl="http://localhost:49227/IUserService.svc?xsd=xsd1" />
+    <MetadataFile FileName="IUserService1.xsd" MetadataType="Schema" ID="11a6185b-2209-4264-bd96-3ed5cda043ed" SourceId="1" SourceUrl="http://localhost:49227/IUserService.svc?xsd=xsd2" />
+    <MetadataFile FileName="IUserService.disco" MetadataType="Disco" ID="bf6d7671-6d7b-4746-90ff-abb1a7e7f7e0" SourceId="1" SourceUrl="http://localhost:49227/IUserService.svc?disco" />
+    <MetadataFile FileName="IUserService2.xsd" MetadataType="Schema" ID="7f65068b-a19f-4227-bff9-48fdc61279c9" SourceId="1" SourceUrl="http://localhost:49227/IUserService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UserService.wsdl" MetadataType="Wsdl" ID="745baf3e-df01-4982-9f4c-db7997123d09" SourceId="1" SourceUrl="http://localhost:49227/IUserService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

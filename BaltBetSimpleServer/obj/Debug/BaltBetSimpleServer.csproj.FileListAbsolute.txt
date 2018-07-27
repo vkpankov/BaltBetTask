@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\BaltBetSimpleServer.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\BaltBetSimpleServer.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\BaltBetSimpleServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\obj\Debug\BaltBetSimpleServer.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\obj\Debug\BaltBetSimpleServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\BaltBetServices.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\SharedLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\BaltBetServices.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\BaltBetServices.dll.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\SharedLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\SharedLibrary.dll.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BaltBetService\BaltBetSimpleServer\obj\Debug\BaltBetSimpleServer.csprojResolveAssemblyReference.cache
